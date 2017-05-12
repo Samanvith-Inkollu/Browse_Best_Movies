@@ -1,5 +1,5 @@
 import webbrowser
-
+#This was only to check if we could open the webbrowser to play the trailer. The code will run if we omit this as well.
 class Movie():
     #1. According to google style guide to python the first letter (cont.)
     #2. (cont.) while defining a class must be a capital letter.
