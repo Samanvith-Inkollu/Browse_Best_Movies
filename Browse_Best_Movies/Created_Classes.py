@@ -15,6 +15,8 @@ class Movie():
 
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
+        #This was only to check if we could open the webbrowser to play the trailer. The code will run if we omit this as well.
+        
         
     
 
